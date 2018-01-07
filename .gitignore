@@ -1,7 +1,10 @@
-.doc
-.docx
+*.doc
+*.docx
+*.pptx
+*.jpg
+Thumbs.
 .idea
 .DS_Store
 .vscode/*
-Thumbs.db
+db
 node_modules/
